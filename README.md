@@ -5,5 +5,6 @@ This project, part of the upGrad bootcamp, focuses on analyzing profit data from
 
 
 # Dashboard screenshot
-![Uploading profitanalysis_capstoneproject.jpg…]()
+![profitanalysis_capstoneproject](https://github.com/user-attachments/assets/92d5bc90-380d-4d1f-b12d-b3f675ff3282)
+
 
